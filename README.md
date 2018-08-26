@@ -1,3 +1,9 @@
+# OUTDATED AND NOT RELIABLE INFO but should still try it
+
+
+
+
+
 # Terminal-hacking-tool-UI-template
 
 ## How are these used?
