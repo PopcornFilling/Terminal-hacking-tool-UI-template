@@ -1,4 +1,4 @@
-#    Created by Julius Alexnader Aka linux-fisher
+#    Created by linux-fisher
 #    age: 15y
 #    This was made for my Educational reason, I has eager to learn to make this but i didnt know and still dont know what its called to make this type of stuff in you open to 
 #    use in terminal. But im super happy that im able to make one, Im still learning and have a long way to go. I also didthis so people wont call me a script kitty no more.      
